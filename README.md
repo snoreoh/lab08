@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/justddreamm/lab07.svg?branch=master)](https://travis-ci.org/justddreamm/lab07)
+[![Build Status](https://travis-ci.org/justddreamm/lab08.svg?branch=master)](https://travis-ci.org/justddreamm/lab08)
 
-# Лабораторная работа №07 Лагов Сергей ИУ8-22
+# Лабораторная работа №08 Лагов Сергей ИУ8-22
 
 ```
 $ mkdir -p cmake
